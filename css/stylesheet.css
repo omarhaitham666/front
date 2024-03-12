@@ -1,0 +1,64 @@
+.search-position{
+right: 12%;
+}
+
+.photo{
+    width: 60%;
+}
+
+.border-card{
+   box-shadow: 20px;
+   border-radius: 5%;
+box-shadow: 10px 10px 10px  gray;
+/* border: 1px solid; */
+}
+
+.back{
+    background-color:  rgba(148, 142, 142, 0.178);
+}
+
+.card-trans{
+    transition: all 0.7s;
+}
+
+.card-trans:hover{
+    transform:scale(1.1) ;
+}
+
+.icon-color{
+color: blue;
+}
+
+.a-color{
+color: black;
+}
+
+.a-color:hover{
+    color: blue;
+}
+
+.photo-2{
+    width: 60%;
+}
+
+.icon-2-color{
+    color: white;
+}
+
+.hire-icon {
+    background-color: rgb(104, 104, 7);
+    border-radius: 50%;
+   
+    color: black;
+    padding: 5px;
+ 
+}
+
+span a{
+font-size: 13px;
+}
+
+.hr{
+    opacity: 10;
+    border-color: white;
+}
